@@ -1,7 +1,9 @@
 # HR Analytics Dashboard - Power BI
 
 ## 📌 Project Overview
-This project is an **HR Analytics Dashboard** built using **Power BI**, designed to provide insights into employee presence, work-from-home (WFH) trends, and sick leave (SL) percentages. The dashboard helps HR teams monitor attendance patterns over time and analyze trends by various factors like month and day of the week.
+This project is an **HR Analytics Dashboard** built using **Power BI**,  designed to track employee data for the HR team, including working hours, attendance,
+performance, and leaves. The dashboard streamlined HR processes and increased efficiency.
+• This Dashboard can save 3-4hrs of work for the HR daily.
 
 ## 🚀 Features
 - **Presence Insights**: Displays the percentage of employees present, working from home, and on sick leave.
@@ -15,7 +17,7 @@ This project is an **HR Analytics Dashboard** built using **Power BI**, designed
 
 ## 🛠️ Technologies Used
 - **Power BI**
-- **Excel/CSV (Data Source)**
+- **Excel(Data Source)**
 
 ## 📊 Key Metrics
 - **Present %** = (Total Present Days / Total Working Days) * 100
