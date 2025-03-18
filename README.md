@@ -35,3 +35,8 @@ performance, and leaves. The dashboard streamlined HR processes and increased ef
 - `HR_Analytics_project.pbix` → Power BI dashboard file
 - `HRData.xlsx` → Source data file (if applicable)
 - `README.md` → Project documentation
+  
+## 📺 Source & Credits
+This project was created by using sources from Code Basics Youtube Channel.
+
+
